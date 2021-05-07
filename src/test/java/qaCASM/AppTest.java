@@ -18,6 +18,10 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        System.out.println("Test1");
+        System.out.println("Test2");
+        System.out.println("Test3");
+        
     }
 
     /**
